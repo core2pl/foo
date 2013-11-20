@@ -2,6 +2,6 @@
 
 namespace core2pl\foo\entities;
 
-class bar extends \entity {
+class bar extends \core\entity {
 
 }

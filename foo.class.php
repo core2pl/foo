@@ -4,6 +4,6 @@ namespace core2pl\foo;
 
 use core2pl\foo\entities\bar as bar;
 
-class foo extends \bundle {
+class foo extends \core\bundle {
 
 }
